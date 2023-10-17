@@ -1,5 +1,5 @@
 streamlit
 keras
 mtcnn
-python-opencv
+opencv-python
 Pillow
