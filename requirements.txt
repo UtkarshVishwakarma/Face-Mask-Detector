@@ -3,3 +3,4 @@ keras
 mtcnn
 opencv-python
 Pillow
+tensorflow
