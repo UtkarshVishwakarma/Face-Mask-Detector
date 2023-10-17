@@ -1,0 +1,5 @@
+streamlit
+keras
+mtcnn
+python-opencv
+Pillow
